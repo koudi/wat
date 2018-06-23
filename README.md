@@ -25,3 +25,4 @@ List of my favourite funny/weird/interesting IT bugs and stories.
 - [UnexpectedSuccessException](https://github.com/newcontext/rabbitmq-java-client/blob/1dcf5c4d4aae744dbfb08622778d9dc02ea38d23/test/src/com/rabbitmq/examples/TestMain.java#L301)
 - [Android SDK - UserManager.isUserAGoat](https://developer.android.com/reference/android/os/UserManager#isuseragoat)
 - [Windows may detect your wireless keyboard as a toaster](https://www.geek.com/apps/windows-may-detect-your-wireless-keyboard-as-a-toaster-1601260/)
+- [JavaScript (ES 5) hack for clean multi-line strings](https://eli.thegreenplace.net/2013/11/09/javascript-es-5-hack-for-clean-multi-line-strings)
