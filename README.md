@@ -27,3 +27,4 @@ List of my favourite funny/weird/interesting IT bugs and stories.
 - [Windows may detect your wireless keyboard as a toaster](https://www.geek.com/apps/windows-may-detect-your-wireless-keyboard-as-a-toaster-1601260/)
 - [JavaScript (ES 5) hack for clean multi-line strings](https://eli.thegreenplace.net/2013/11/09/javascript-es-5-hack-for-clean-multi-line-strings)
 - [Can (a== 1 && a ==2 && a==3) ever evaluate to true?](https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true)
+- [Xerox scanners/photocopiers randomly alter numbers in scanned documents](http://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning?)
